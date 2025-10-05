@@ -4,8 +4,8 @@ Foi o primeiro conversor desenvolvido pelo grupo na Universidade, e a topologia 
 
 Neste repositório, é possível encontrar dois ficheiros:
 
-	1. Um PDF que contém todos os testes em simulação e breadboard, e responde a várias perguntas feitas em aula.
+  1. Um PDF que contém todos os testes em simulação e breadboard, e responde a várias perguntas feitas em aula.
 
-	2. Um PPT que apresenta todo o trabalho feito nesta UC, desde as simulações à PCB.
+  2. Um PPT que apresenta todo o trabalho feito nesta UC, desde as simulações à PCB.
 
 Com este trabalho foi intuitivo aprender sobre o funcionamento de conversores de eletrónica de potência deste tipo, bem como dimensionar circuitos de comando não isolados.
